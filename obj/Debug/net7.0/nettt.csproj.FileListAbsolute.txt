@@ -1,0 +1,15 @@
+C:\Users\nika\Desktop\nettt\bin\Debug\net7.0\nettt.exe
+C:\Users\nika\Desktop\nettt\bin\Debug\net7.0\nettt.deps.json
+C:\Users\nika\Desktop\nettt\bin\Debug\net7.0\nettt.runtimeconfig.json
+C:\Users\nika\Desktop\nettt\bin\Debug\net7.0\nettt.dll
+C:\Users\nika\Desktop\nettt\bin\Debug\net7.0\nettt.pdb
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.csproj.AssemblyReference.cache
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.AssemblyInfoInputs.cache
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.AssemblyInfo.cs
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.csproj.CoreCompileInputs.cache
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.dll
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\refint\nettt.dll
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.pdb
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\nettt.genruntimeconfig.cache
+C:\Users\nika\Desktop\nettt\obj\Debug\net7.0\ref\nettt.dll
